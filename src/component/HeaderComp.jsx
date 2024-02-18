@@ -3,8 +3,8 @@ import React from 'react';
 const HeaderComp = () => {
     return (
         <div className='row p-3' > 
-            <div className='col-md-2'>
-                <img src="./public/img/logo.webp" className='img-fluid' alt="" srcset="" />
+            <div className='col-md-2 p-2'>
+                <h3 style={{ color:'rgb(89, 175, 89)'}}>GUVI</h3>
             </div>
             <div className='col-md-2 p-3'>
                 <span > COURSES</span>

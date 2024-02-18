@@ -306,7 +306,7 @@ const App = () => {
           <HeaderComp />
         </div>
         <Routes>
-            <Route path='/' element={<img src="./public/img/header.webp" class="img-fluid" alt="" srcset="" />} />
+          <Route path='/' element={<img src="https://www.guvi.in/blog/wp-content/uploads/2022/04/July-last-week-offer-cover-1536x340.webp" class="img-fluid" alt="" srcset="" />} />
           <Route path='/Fullstack' element={<Headfullstack />} />
           <Route path='/Datascience' element={<Headdata />} />
           <Route path='/CyberSecurity' element={<img src="https://www.guvi.in/blog/wp-content/uploads/2022/04/July-last-week-offer-cover-1536x340.webp" class="img-fluid" alt="" srcset="" />} />
