@@ -48,21 +48,21 @@ const App = () => {
     },
     {
       "head": "Data Science",
-      "image": "https://www.guvi.in/blog/wp-content/uploads/2023/10/Feature-image-Difference-between-Data-Science-and-Data-Engineering-768x480.webp",
+      "image": "https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-Top-Product-Based-Companies-for-Data-Scientists-768x480.webp",
       "content": "Data science involves the use of various techniques and algorithms to extract insights and knowledge from structured and unstructured data. It includes skills in programming (Python, R), statistics, machine learning, data analysis, and data visualization...",
       "date": "15",
       "month": "March"
     },
     {
       "head": "Cybersecurity",
-      "image": "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-1536x864.png",
+      "image": "https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-What-Is-Hacking_-Types-of-Hacking-More-768x480.webp",
       "content": "Cybersecurity focuses on protecting systems, networks, and programs from digital attacks. It includes skills in network security, cryptography, penetration testing, and security frameworks...",
       "date": "10",
       "month": "July"
     },
     {
       "head": "Career",
-      "image": "https://www.guvi.in/blog/wp-content/uploads/2023/04/javascript-animated-image-1200x675.jpg",
+      "image": "https://www.guvi.in/blog/wp-content/uploads/2023/11/FEATURE-IMAGE-1-3-1536x804.webp",
       "content": "Career development involves planning and managing one's career path. It includes skills in goal setting, networking, resume building, job searching, and professional growth...",
       "date": "22",
       "month": "November"
@@ -110,14 +110,14 @@ const App = () => {
     },
     {
       "head": "Cybersecurity",
-      "image": "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-1536x864.png",
+      "image": "https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-What-Is-Hacking_-Types-of-Hacking-More-768x480.webp",
       "content": "Cybersecurity focuses on protecting systems, networks, and programs from digital attacks. It includes skills in network security, cryptography, penetration testing, and security frameworks...",
       "date": "10",
       "month": "July"
     },
     {
       "head": "Career",
-      "image": "https://www.guvi.in/blog/wp-content/uploads/2023/04/javascript-animated-image-1200x675.jpg",
+      "image": "https://www.guvi.in/blog/wp-content/uploads/2023/11/FEATURE-IMAGE-1-3-1536x804.webp",
       "content": "Career development involves planning and managing one's career path. It includes skills in goal setting, networking, resume building, job searching, and professional growth...",
       "date": "22",
       "month": "November"
@@ -165,14 +165,14 @@ const App = () => {
     },
     {
       "head": "Cybersecurity",
-      "image": "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-1536x864.png",
+      "image": "https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-What-Is-Hacking_-Types-of-Hacking-More-768x480.webp",
       "content": "Cybersecurity focuses on protecting systems, networks, and programs from digital attacks. It includes skills in network security, cryptography, penetration testing, and security frameworks...",
       "date": "10",
       "month": "July"
     },
     {
       "head": "Career",
-      "image": "https://www.guvi.in/blog/wp-content/uploads/2023/04/javascript-animated-image-1200x675.jpg",
+      "image": "https://www.guvi.in/blog/wp-content/uploads/2023/11/FEATURE-IMAGE-1-3-1536x804.webp",
       "content": "Career development involves planning and managing one's career path. It includes skills in goal setting, networking, resume building, job searching, and professional growth...",
       "date": "22",
       "month": "November"
@@ -219,14 +219,14 @@ const App = () => {
     },
     {
       "head": "Cybersecurity",
-      "image": "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-1536x864.png",
+      "image": "https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-What-Is-Hacking_-Types-of-Hacking-More-768x480.webp",
       "content": "Cybersecurity focuses on protecting systems, networks, and programs from digital attacks. It includes skills in network security, cryptography, penetration testing, and security frameworks...",
       "date": "10",
       "month": "July"
     },
     {
       "head": "Career",
-      "image": "https://www.guvi.in/blog/wp-content/uploads/2023/04/javascript-animated-image-1200x675.jpg",
+      "image": "https://www.guvi.in/blog/wp-content/uploads/2023/11/FEATURE-IMAGE-1-3-1536x804.webp",
       "content": "Career development involves planning and managing one's career path. It includes skills in goal setting, networking, resume building, job searching, and professional growth...",
       "date": "22",
       "month": "November"
@@ -274,14 +274,14 @@ const App = () => {
     },
     {
       "head": "Cybersecurity",
-      "image": "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-1536x864.png",
+      "image": "https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-What-Is-Hacking_-Types-of-Hacking-More-768x480.webp",
       "content": "Cybersecurity focuses on protecting systems, networks, and programs from digital attacks. It includes skills in network security, cryptography, penetration testing, and security frameworks...",
       "date": "10",
       "month": "July"
     },
     {
       "head": "Career",
-      "image": "https://www.guvi.in/blog/wp-content/uploads/2023/04/javascript-animated-image-1200x675.jpg",
+      "image": "https://www.guvi.in/blog/wp-content/uploads/2023/11/FEATURE-IMAGE-1-3-1536x804.webp",
       "content": "Career development involves planning and managing one's career path. It includes skills in goal setting, networking, resume building, job searching, and professional growth...",
       "date": "22",
       "month": "November"
