@@ -1,0 +1,10 @@
+nav a{
+  text-decoration: none;
+  color: black;
+  font-weight: 500;
+ }
+ nav a:hover{
+    border-bottom: 3px solid rgb(89, 175, 89);
+    color:rgb(89, 175, 89) ;
+    font-size:large;
+ }
