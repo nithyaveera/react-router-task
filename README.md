@@ -1,6 +1,6 @@
 # React Router Task
 
-`Front-end Deployed URL` => 
+`Front-end Deployed URL` => https://react-router-dom-task.netlify.app/
 
 ### React Router
 Set up React Router to enable navigation between different categories. See `App.jsx` and `Navcomp.jsx` for implementation.
