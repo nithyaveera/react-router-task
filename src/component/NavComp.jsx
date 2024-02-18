@@ -12,19 +12,19 @@ const NavComp = () => {
                 </button>
                 <div class="collapse navbar-collapse mt-3" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                        <li class="nav-item" style={{paddingRight:'5vw',paddingLeft:'5vw'}}>
+                        <li class="nav-item" style={{paddingRight:'4vw',paddingLeft:'4vw'}}>
                             <Link to='/' >ALL</Link>
                         </li>
-                        <li class="nav-item" style={{ paddingRight: '5vw', paddingLeft: '5vw' }}>
+                        <li class="nav-item" style={{ paddingRight: '4vw', paddingLeft: '4vw' }}>
                             <Link to='/Fullstack' >FULL STACK DEVELEPMENT</Link> 
                         </li>
-                        <li class="nav-item" style={{ paddingRight: '5vw', paddingLeft: '5vw' }}>
+                        <li class="nav-item" style={{ paddingRight: '4vw', paddingLeft: '4vw' }}>
                             <Link to='/Datascience' >DATA SCIENCE</Link>
                         </li>
-                        <li class="nav-item" style={{ paddingRight: '5vw', paddingLeft: '5vw' }}>
+                        <li class="nav-item" style={{ paddingRight: '4vw', paddingLeft: '4vw' }}>
                             <Link to='/CyberSecurity'>CYBER SECURITY</Link>
                         </li>
-                        <li class="nav-item" style={{ paddingRight: '4vw', paddingLeft: '5vw' }}>
+                        <li class="nav-item" style={{ paddingRight: '4vw', paddingLeft: '4vw' }}>
                             <Link to='/Career'>CAREER</Link>
                         </li>
                         

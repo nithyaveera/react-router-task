@@ -4,7 +4,7 @@ const HeaderComp = () => {
     return (
         <div className='row p-3' > 
             <div className='col-md-2'>
-                <img src="https://www.guvi.in/blog/wp-content/uploads/2022/04/Guvi-blog-logo.png" className='img-fluid ' alt="" srcset="" />
+                <img src="./public/img/logo.webp" className='img-fluid' alt="" srcset="" />
             </div>
             <div className='col-md-2 p-3'>
                 <span > COURSES</span>
